@@ -10,4 +10,5 @@ layouts/**/lib/
 blocks/**/build/
 .eslintcache
 databases
-scaffolds/**
+scaffolds/app/**
+scaffolds/lite/**
